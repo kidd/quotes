@@ -1,0 +1,22 @@
+* Name
+  Quotes
+* What
+  - Small script to put  quotes from different sources to a file.
+  - Small script to display one random quote from a file.
+* Why?
+  This should clearly be a fortune file, but I wanted to try factor,
+  so there it is. One line per quote and word wrap.
+
+  There's also a shell version, because it's not a big deal
+* How
+  There's a binary to display a random line (formatted to 40
+  chars). The code is in factor, and it's accessible also.
+
+  The generation of the quotes file is a combination of cli apps and
+  pipes.
+
+* Bugs
+  Already after 5 minutes of trying it, The unbalancing of quotes
+  proived by the different 3 sources makes the bigger one dominant, so
+  if I really want to get things from the others, I better read them
+  straight from the source. :)
