@@ -1,5 +1,5 @@
 #!/bin/sh
-
+cp quotes_orig.txt quotes.txt
 curl https://raw.githubusercontent.com/kulinp/quote-of-the-day/master/app/src/main/assets/txt/randomquote.txt >quotes.txt
 curl http://worrydream.com/quotes/ \
     | pup 'div.entry json{}' \
