@@ -96,7 +96,7 @@ Outside of their particular area of expertise scientists are just as dumb as the
 "The longer I live, the more I realize the impact of attitude on life. Attitude, to me, is more important than Facts. It is more important than the past, than education, than money, than circumstances, than Failures, than successes, than what other people think or say or do. It is more important than appearance, giftedness or skill. It will make or break a company.., a church.., a home. The remarkable thing is we have a choice everyday regarding the attitude we will embrace for that day. We cannot change our past.. we cannot change the fact that people will act in a certain way. We cannot change the inevitable. The only thing we can do is play on the one string we have, and that is our attitude... I am convinced that life is 10% what happens to me and 90% how I react to it. And so it is with you.. we are in charge of our attitudes". -- Charles Swindoll
 Those who do not understand Unix are condemned to reinvent it, poorly. -- Henry Spencer
 "A bad reputation is hard to shake, a good reputation is hard to maintain" -- Anonymous
-I'm not sure which upsets me more: that people are so unwilling to accept responsibility for their own actions, or that they are so eager to regulate everyone else's. 
+I'm not sure which upsets me more: that people are so unwilling to accept responsibility for their own actions, or that they are so eager to regulate everyone else's.
 What luck for the rulers that men do not think. -- Adolf Hitler
 "The universe is not required to be in perfect harmony with human ambition." -- Carl Sagan
 "message passing as the fundamental operation of the OS is just an excercise in computer science masturbation. It may feel good, but you don't actually get anything DONE." -- Linus talking about Micro-Kernels and the EROS OS.
@@ -146,7 +146,7 @@ say what you mean, and mean what you say.
 "reason over passion" -- Pierre Elliott Trudeau's motto
 Freedom requires duty
 Whereof one cannot speak, thereof one must be silent -- Ludwig Wittgenstein
-"The Pythagorean Theorem employed 24 words, the Lord's Prayer has 66 words, Archimedes Principle has 67words, the 10 Commandments have 179 words, the Gettysburg Address had 286 words, the Declaration of Independence, 1,300 words and finally the European Commission's regulation on the sale of cabbage: 26,911 words." 
+"The Pythagorean Theorem employed 24 words, the Lord's Prayer has 66 words, Archimedes Principle has 67words, the 10 Commandments have 179 words, the Gettysburg Address had 286 words, the Declaration of Independence, 1,300 words and finally the European Commission's regulation on the sale of cabbage: 26,911 words."
 "Amateurs hack systems, professionals hack people" -- Bruce Schneier
 "Programming is an art form that fights back" -- Saige on SlashDot
 Majority, n.: That quality that distinguishes a crime from a law.
@@ -10827,3 +10827,56 @@ Someone had to go to Robin Williams' Wikipedia page and turn every 'is' to a 'wa
 There should be a battle of the bands at each half time show during the nfl playoffs and the winner moves on to the super bowl show 	―panoramicjazz, Feb 2015
 We never stop clapping, we just really, really slooooooooooow down. 	―monoleso, Sep 2015
 Saying "um" is the human equivalent to buffering. 	―[deleted], Nov 2015
+A complex system that works is invariably found to have evolved from a simple system that worked. --John Gall
+Enlightened trial and error outperforms the planning of flawless intellects. --David Kelley
+It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code. You should be able to read it. -- Steve McConnell
+Working software is the primary measure of progress. --Agile manifesto
+Simplicity — the art of maximizing the amount of work not done — is essential. -- Agile manifesto
+“The act of describing a program in unambiguous detail and the act of programming are one and the same.” — Kevlin Henney
+“Much of the essence of building a program is in fact the debugging of the specification.” — Fred Brooks
+“A common fallacy is to assume authors of incomprehensible code will be able to express themselves clearly in comments.” — Kevlin Henney
+“Bad programmers worry about the code. Good programmers worry about data structures and their relationships.” — Linus Torvalds
+“Give someone a program, you frustrate them for a day; teach them how to program, you frustrate them for a lifetime.” — David Leinweber
+“Debugging is like being the detective in a crime movie where you are also the murderer.” — @fortes
+– What do we want? // – Now! //– When do we want it? //– Fewer race conditions! -- @wellendonner
+“Dynamic typing: The belief that you can’t explain to a computer why your code works, but you can keep track of it all in your head.” — @chris__martin
+“Unix will give you enough rope to shoot yourself in the foot. If you didn’t think rope would do that, you should have read the man page.” — @mhoye
+“If you put a million monkeys on a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.”
+“When your hammer is C++, everything begins to look like a thumb.” — Steve Haflich
+“C is memory with syntactic sugar.” — Dennis Kubes
+“A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.” — Leslie Lamport
+“Sufficiently advanced abstractions are indistinguishable from obfuscation.” — @raganwald
+“Sufficiently advanced trolling is indistinguishable from thought leadership.” — Hall’s Law
+“Any sufficiently advanced bug is indistinguishable from a feature” — R. Kulawiec
+“Any sufficiently advanced incompetence is indistinguishable from malice” — Grey’s Law
+“Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration.” — Stan Kelly-Bootle
+[The common definition of estimate is] “An estimate is the most optimistic prediction that has a non-zero probability of coming true” . . . Accepting this definition leads irrevocably toward a method called what’s-the-earliest-date-by-which-you-can’t-prove-you-won’t-be-finished estimating.
+Tom DeMarco (1982)
+“What one programmer can do in one month, two programmers can do in two months.” – Fred Brooks (maybe)
+“Hardware eventually fails. Software eventually works.” – Michael Hartung
+“Static types give me the same feeling of safety as the announcement that my seat cushion can be used as a floatation device.” – Attributed to Don Roberts by Martin Fowler.
+“The Release Uncertainty Principle says you can accurately know what the software will do, or when you will get it, but not both.” – @sanityinc
+“What programming continuously teaches me is that asking the right questions is infinitely more important than writing the code.” – @DanielMiessler
+“The barman asks what the first one wants, two race conditions walk into a bar.” – @iamdevloper
+“Programming is a few brief moments of sublime elegance embedded in months of niggling, exacting, precise trivialities.” – @MrAlanCooper
+Programmer’s motto: “We’ll cross that bridge when it’s burning underneath us.” @garybernhardt
+“The only programs that don’t get changed are those that are so bad that nobody wants to use them.” – David Parnas
+“Do; or do not. There is no //TODO” – @jamesshore
+Programming is like…//Get 68 people to write a book//Simultaneously//End is sort of vague//Change the topic twice//Pedantic people//Coffee --@pm
+The most well-known quote in this style is by Jamie Zawinski on regular expressions. Here are four good variations:
+Some programmers, when confronted with a problem, think “I know, I’ll use floating point arithmetic.” Now they have 1.999999999997 problems. – @tomscott
+Some people, when confronted with a problem, think “I know, I’ll use multithreading”. Nothhw tpe yawrve o oblems. – @d6
+Some people, when confronted with a problem, think “I know, I’ll use versioning.” Now they have 2.1.0 problems. – @JaesCoyle
+Some people, when faced with a problem, think, “I know, I’ll use binary.” Now they have 10 problems. – @nedbat
+These quotes aren’t about programming per se, but they are still relevant and insightful (or funny):
+“If you can’t explain it simply, you don’t understand it well enough” – attributed to, but probably not by, Albert Einstein
+“What I cannot create, I do not understand.” – Richard Feynman
+“Writing is nature’s way of letting you know how sloppy your thinking is.” – Dick Guindon
+“It’s often called the ‘elevator pitch’, because you should be able to describe the product in the time between when the cable snaps and the elevator hits the ground.” – Steve Yegge
+There are only two kinds of people in the world: those who can extrapolate from missing data.
+Rule 1. You can't tell where a program is going to spend its time.  Bottlenecks occur in surprising places, so don't try to second guess and put in a speed hack until you've proven that's where the bottleneck is. -- Rob Pike
+Rule 2. Measure. Don't tune for speed until you've measured, and even then don't unless one part of the code overwhelms the rest.
+Rule 3. Fancy algorithms are slow when n is small, and n is usually small. Fancy algorithms have big constants. Until you know that n is frequently going to be big, don't get fancy. (Even if n does get big, use Rule 2 first.) -- Rob Pike
+Rule 4. Fancy algorithms are buggier than simple ones, and they're much harder to implement. Use simple algorithms as well as simple data structures. -- Rob Pike
+Rule 5. Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming. -- Rob Pike
+What appears to be a fault, often, by a change of viewpoint, turns out to be one of the greatest assets you can have. -- Hamming

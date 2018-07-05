@@ -1,6 +1,6 @@
 #!/bin/sh
 cp quotes_orig.txt quotes.txt
-curl https://raw.githubusercontent.com/kulinp/quote-of-the-day/master/app/src/main/assets/txt/randomquote.txt >quotes.txt
+curl https://raw.githubusercontent.com/kulinp/quote-of-the-day/master/app/src/main/assets/txt/randomquote.txt >>quotes.txt
 curl http://worrydream.com/quotes/ \
     | pup 'div.entry json{}' \
     |jq -r '.[]| [.children[1].children[0].children[0].text , .children[0].children[1].text ] | join(" -- ") | gsub("\\n" ; "")' \
