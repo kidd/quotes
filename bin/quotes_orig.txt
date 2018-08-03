@@ -10880,3 +10880,36 @@ Rule 3. Fancy algorithms are slow when n is small, and n is usually small. Fancy
 Rule 4. Fancy algorithms are buggier than simple ones, and they're much harder to implement. Use simple algorithms as well as simple data structures. -- Rob Pike
 Rule 5. Data dominates. If you've chosen the right data structures and organized things well, the algorithms will almost always be self-evident. Data structures, not algorithms, are central to programming. -- Rob Pike
 What appears to be a fault, often, by a change of viewpoint, turns out to be one of the greatest assets you can have. -- Hamming
+APL: Abandon all hope, ye who enter here.
+APL: The language your mother warned you about.
+C: Combines the power of assembly language with the readability and maintainability of assembly language.
+C and C++: Enough rope to shoot yourself in the foot.
+C++: An octopus made by nailing extra legs onto a dog.
+Objective C: All the memory safety of C combined with all the blazing speed of
+Smalltalk.
+Erlang: Let it crash.
+Erlang: Compile once run forever.
+Erlang/Prolog: Failure is very much an option.
+Functional programming: Combining the power of abstract mathematics with the intuitive clarity of abstract mathematics.
+Haskell: Avoid success at all costs.
+Haskell: If it compiles, it probably works.
+Programming in Haskell: An hour of meditation, followed by the emission of a single 'fold' expression.
+Java: C++ with all the knives, guns, and clubs put away.
+Java is like Cobol: you have to write a lot of words to get a little bit done.
+Ruby is the opposite: you only need write a few words to get a lot done.
+JavaScript: Any application that can be written in JavaScript will eventually be written in JavaScript (a.k.a., Atwood's Law.)
+JavaScript: A vastly underrated language that became a vastly overrated language.
+JavaScript: It doesn't suck as much as you think.
+Lisp: To iterate is human; to recurse is divine.
+Common Lisp: Most intelligent way to misuse the computer.
+Perl: A write-only language.
+Perl: The only language that looks the same before and after RSA encryption, etc.
+Perl: If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.
+Perl: There is more than one way to do it
+PHP: There is more than one way to screw it.
+Python: There should be one-- and preferably only one --obvious way to do it.
+Python: Compile, run and ship your pseudo-code.
+Python: There is exactly one correct way to do it.
+The Zen of Python: Beautiful is better than ugly, etc.
+Scheme: The only language with more implementations than programmers.
+Prolog: A language with the intelligence of a two year old, so therefore one that says "No" to every query.
