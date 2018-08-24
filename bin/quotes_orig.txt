@@ -10913,3 +10913,32 @@ Python: There is exactly one correct way to do it.
 The Zen of Python: Beautiful is better than ugly, etc.
 Scheme: The only language with more implementations than programmers.
 Prolog: A language with the intelligence of a two year old, so therefore one that says "No" to every query.
+“The secret to doing good research is always to be a little underemployed. You waste years by not being able to waste hours.” Amos Tversky
+"Never express yourself more clearly than you are able to think." Niels Bohr
+“If a machine is expected to be infallible, it cannot also be intelligent.” Alan Turing, 1947
+“Nothing is less productive than to make more efficient what should not be done at all.” Peter Drucker
+“It is the mark of an educated mind to be able to entertain a thought without accepting it.” Aristotle (commenting on the need for a multiple-context mechanism in knowledge representation)
+People who spell it “commonsense” generally don’t have any. Unknown, possibly Thomas Paine
+A manager should be like the sweeper in curling: The sweeper runs ahead of the stone and sweeps away debris from the path of the stone so that the progress of the stone will be smooth and undisturbed.” Richard P. Gabriel
+"Perhaps the most valuable result of education is the ability to make yourself do the thing you have to do, when it ought to be done, whether you like it or not. Thomas Henry Huxley
+Writing is easy.  All you do is stare at a blank sheet of paper until drops of blood form on your forehead.” Gene Fowler
+Never attribute to malice what can be adequately explained by stupidity.” Origin unclear, but often referred to as "Hanlon's Razor" and attributed to Robert J. Hanlon.
+If you are always pressing the envelope, you will suffer many paper cuts.” Scott E. Fahlman
+When I do good, I feel good; when I do bad, I feel bad, and that is my religion.” Abraham Lincoln
+"If you don't know where you are going, you will probably end up somewhere else." Laurence J. Peter
+If you can't take the heat, don't tickle the dragon." Scott E. Fahlman, with apologies to Harry S Truman
+It is hard enough to remember my opinions, without also remembering my reasons for them!” Friedrich Nietzsche
+The author of the Iliad is either Homer or, if not Homer, somebody else of the same name.” Aldous Huxley
+Education is not the filling of a pail, but the lighting of a fire.” Attributed to William Butler Yeats
+So much of what we call management consists in making it difficult for people to work.” Peter Drucker
+The trouble with having an open mind, of course, is that people will insist on coming along and trying to put things in it.” Terry Pratchett
+Good judgment comes from experience.  Experience comes from poor judgment.” Often attributed to Jim Horning, who in turn attributes it to the Sufi sage/fool Mulla Nasrudin, born circa 1208.
+Don't worry about people stealing an idea. If it's original, you will have to ram it down their throats.” Howard Aiken
+The early bird may get the worm, but it’s the second mouse who gets the cheese.” Source Unknown
+"The great enemy of clear language is insincerity." George Orwell
+Mathematics has given economics rigor, but alas, also mortis.” Robert Heilbroner
+“We never stop investigating. We are never satisfied that we know enough to get by. Every question we answer leads on to another question. This has become the greatest survival trick of our species.” Desond Morris
+Millions long for immortality who don't know what to do with themselves on a rainy Sunday afternoon.” Susan Ertz
+We like to praise birds for their ability to fly, but how much of that is actually flying, and how much is just coasting from the last flap?” Jack Handey
+The purpose of time is to keep everything from happening at once. It's not working.” Source Unknown
+Never eat more than you can lift.” Miss Piggy
