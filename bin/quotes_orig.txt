@@ -10942,3 +10942,4 @@ Millions long for immortality who don't know what to do with themselves on a rai
 We like to praise birds for their ability to fly, but how much of that is actually flying, and how much is just coasting from the last flap?” Jack Handey
 The purpose of time is to keep everything from happening at once. It's not working.” Source Unknown
 Never eat more than you can lift.” Miss Piggy
+Nothing in vimscript is "designed": it's mostly 20 years of improvisation and tradeoffs.
